@@ -1,4 +1,5 @@
 _repo: Punch-or-the-London-Charivari-Vol-109-September-14th-1895_46583
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -17,9 +18,7 @@ contributor:
       wikipedia: http://en.wikipedia.org/wiki/Francis_Burnand
 covers:
 - cover_type: archival
-  image_path: 46583/46583-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46583-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -27,6 +26,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46583#Punch-or-the-London-Charivari-Vol-109-September-14th-1895
 gutenberg_issued: '2014-08-14'
 gutenberg_type: Text
 identifiers:
